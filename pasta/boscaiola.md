@@ -8,6 +8,7 @@
 - peas
 - mushrooms
 - onions
+- 1 kg of beef
 
 
 ## Instructions
